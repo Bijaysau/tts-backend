@@ -12,7 +12,12 @@ Welcome to the backend of the **Text-to-Speech (TTS) Converter**! This server ha
 - **Express.js** ⚡  
 - **Supabase (PostgreSQL)** 🐄  
 - **Murf TTS API** 🗣️  
-- **Axios** 🔗  
+- **Axios** 🔗
+- **Dotenv**
+- **cors — To enable cross-origin requests (so your frontend can access the backend)**
+- **body-parser — To parse incoming JSON requests.**
+  
+  
 
 ## 🔧 Setup Instructions
 1. **Clone the repo**  
